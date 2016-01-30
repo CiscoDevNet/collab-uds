@@ -1,0 +1,21 @@
+{
+  "active": true,	
+  "labId": "collab-uds",
+  "title": "Collaboration: UDS",
+  "slug": "Learn three of Cisco's core Collaboration technologies; User Data Services, Cisco Unity Messaging Interface (CUMI), and the NEW Jabber Guest.",
+  "time": "15",
+  "tags": [
+    {"title" : "Collaboration"},
+    {"title": "UDS"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"}
+  ],
+  "authors": [
+  	{"name": "", "email": ""}
+  ]
+}
