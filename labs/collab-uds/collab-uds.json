@@ -4,6 +4,8 @@
   "title": "Collaboration: UDS",
   "slug": "Learn three of Cisco's core Collaboration technologies; User Data Services, Cisco Unity Messaging Interface (CUMI), and the NEW Jabber Guest.",
   "time": "15",
+  "byod": true,
+  "poweredBy": "<a href=\"https://developer.cisco.com/site/devnet/sandbox/\" target=\"_blank\">DevNet Sandbox</a>",    
   "tags": [
     {"title" : "Collaboration"},
     {"title": "UDS"}
